@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:wght@300&display=swap');
+*{ background-color: #F7ECDE;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.centermine{
+  margin-left: 30%;
+}
+
+
+.find-me{
+    display:block;
+    width: 120px;
+}
+.select-control{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+.form-group{
+    margin-bottom: 20px;
+
+}
+.check_name{
+    margin-left: 38%;
+    margin-bottom: 20px;
+    
+}
+.make_bold{
+    font-weight: bold;
+    font-size: 16px;
+}
